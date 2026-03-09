@@ -13,7 +13,7 @@
 
 **𝚎𝚟𝚎𝚛𝚢 𝚏𝚛𝚒𝚍𝚊𝚢** - 𝚊 𝚗𝚎𝚠 𝚌𝚑𝚊𝚙𝚝𝚎𝚛 𝚘𝚗 𝚒n [**𝙻𝙾𝙶𝙸𝙲-𝟷𝟹**](https://logic-13.vercel.app/)
 <br>
-**𝚎𝚟𝚎𝚛𝚢 𝚜𝚞𝚗𝚍𝚊𝚢** — 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚜𝚝 𝚘𝚗 [**𝚖𝚊𝚛𝚒𝚗𝚊 𝙾𝚂**](https://github.com/storyteller-13/marina-OS) 𝚊𝚗𝚍 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚎𝚖 𝚘𝚗 [**𝚕𝚞𝚗𝚊 𝚌𝚊𝚙𝚛𝚊**](https://github.com/storyteller-13/luna-capra)
+**𝚎𝚟𝚎𝚛𝚢 𝚜𝚞𝚗𝚍𝚊𝚢** — 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚜𝚝 𝚘𝚗 [**𝚖𝚊𝚛𝚒𝚗𝚊 𝙾𝚂**](https://www.vonsteinkirch.com/) 𝚊𝚗𝚍 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚎𝚖 𝚘𝚗 [**𝚕𝚞𝚗𝚊 𝚌𝚊𝚙𝚛𝚊**](https://luna-capra.vercel.app/)
 
 
 ### 🖤 supporting my work
