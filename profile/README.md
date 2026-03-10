@@ -8,23 +8,13 @@
 
 <br>
 
-### 📅 publication schedule
-
-
-**𝚎𝚟𝚎𝚛𝚢 𝚏𝚛𝚒𝚍𝚊𝚢** - 𝚊 𝚗𝚎𝚠 𝚌𝚑𝚊𝚙𝚝𝚎𝚛 𝚘𝚗 𝚒n [**𝙻𝙾𝙶𝙸𝙲-𝟷𝟹**](https://logic-13.vercel.app/)
-<br>
-**𝚎𝚟𝚎𝚛𝚢 𝚜𝚞𝚗𝚍𝚊𝚢** — 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚜𝚝 𝚘𝚗 [**𝚖𝚊𝚛𝚒𝚗𝚊 𝙾𝚂**](https://www.vonsteinkirch.com/) 𝚊𝚗𝚍 𝚊 𝚗𝚎𝚠 𝚙𝚘𝚎𝚖 𝚘𝚗 [**𝚕𝚞𝚗𝚊 𝚌𝚊𝚙𝚛𝚊**](https://luna-capra.vercel.app/)
-
-
 ### 🖤 supporting my work
 
 𝚒𝚏 𝚢𝚘𝚞 𝚎𝚗𝚓𝚘𝚢 𝚝𝚑𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚒 𝚋𝚞𝚒𝚕𝚍 𝚊𝚗𝚍 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚔𝚎𝚎𝚙 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐, 
 <br>
 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚖𝚢 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚊 **[𝚍𝚘𝚗𝚊𝚝𝚒𝚘𝚗](https://donationvonsteinkirchcom.vercel.app)**, 
- 𝚋𝚢 **[𝚜𝚙𝚘𝚗𝚜𝚘𝚛𝚒𝚗𝚐 𝚖𝚎](https://github.com/sponsors/von-steinkirch)**, <br>
- 𝚋𝚢 𝚞𝚜𝚒𝚗𝚐 **[𝚖𝚢 𝚌𝚘𝚞𝚗𝚜𝚎𝚕𝚒𝚗𝚐 𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜](https://sundaychats.vercel.app/)**, 𝚘𝚛 𝚋𝚢 𝚜𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚒𝚗𝚐 𝚝𝚘<br>
-𝚖𝚢 [𝚜𝚌𝚒-𝚏𝚒 𝚜𝚝𝚘𝚛𝚢𝚋𝚘𝚘𝚔](https://logic-13.vercel.app/) 𝚘𝚛 𝚖𝚢 [𝚙𝚛𝚎𝚍𝚒𝚌𝚒𝚝𝚘𝚗 𝚊𝚙𝚙](https://future-ai-app.vercel.app/).
-
+ 𝚋𝚢 **[𝚜𝚙𝚘𝚗𝚜𝚘𝚛𝚒𝚗𝚐 𝚖𝚎](https://github.com/sponsors/von-steinkirch)**, 𝚘𝚛 <br>
+ 𝚋𝚢 𝚓𝚘𝚒𝚗𝚒𝚗𝚐 **[𝚖𝚢 𝚑𝚎𝚊𝚛𝚝-𝚝𝚘-𝚑𝚎𝚊𝚛𝚝 𝚜𝚎𝚜𝚜𝚒𝚘𝚗𝚜](https://sundaychats.vercel.app/)**.
 <br>
 
 </div>
